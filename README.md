@@ -1,0 +1,2 @@
+run ./jake.sh test
+

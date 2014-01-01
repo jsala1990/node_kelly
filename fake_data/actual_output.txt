@@ -1,0 +1,5 @@
+1 book: 13.49
+1 car: 14.49
+1 cat: 15.49
+Total: 43.47
+Sales Taxes: 3.00

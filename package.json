@@ -1,0 +1,11 @@
+{
+	"name": "node_for_kelly",
+	"description": "making something for myself", 
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"mocha": "*",
+		"jake": "*",
+		"underscore": "*"
+	}
+}
